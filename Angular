@@ -1,0 +1,7 @@
+<button class="md-fab md-fab-bottom-right docs-scroll-fab md-button md-ink-ripple scrolling" type="button" ng-transclude="" docs-scroll-class="scrolling" ng-click="scrollTop()" aria-label="Back to Top">
+        
+        <md-icon md-svg-src="img/icons/ic_arrow_up_24px.svg" class="ng-scope" role="img" aria-hidden="true"><svg height="100%" viewBox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg" fit="" preserveAspectRatio="xMidYMid meet" focusable="false">
+    <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path>
+    <path d="M0 0h24v24H0z" fill="none"></path>
+</svg></md-icon>
+      </button>
